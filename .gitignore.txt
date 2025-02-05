@@ -1,1 +1,9 @@
 .ipynb_checkpoints
+Books.csv
+books.pkl
+popular.pkl
+pt.pkl
+Ratings.csv
+similarity_score.pkl
+Users.csv
+.idea
